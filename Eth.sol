@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT 
 pragma solidity 0.8.18;
 contract MyToken {  
-string public Token_name = "My Token"; 
-string public Token_Abbrv = "MT"; 
+string public Token_name = "EMBER"; 
+string public Token_Abbrv = "EB"; 
 uint public Totalsupply = 0;
 
 // mapping variable here
